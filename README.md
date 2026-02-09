@@ -1,6 +1,9 @@
 # About Me:
-CS Engineering student focusing on **core computer science**<br>Interested in **Operating Systems, Computer Architecture, and low-level systems**<br>- Learning by **building and breaking things**<br>looking forward to grow as a computer architect and physicist.<br> 
-
+CS Engineering student focusing on **core computer science**<br>Interested in **Operating Systems, Computer Architecture, and low-level systems**<br>Learning by **building and breaking things**<br>looking forward to grow as a computer architect and physicist.<br> 
+## Projects: 
+designing a virtual operating system's scheduler where user can simulate and control the processes, state, transistions to understand the working of a scheduler. 
+<br>Just a hobby project which might turn into a serious project. 
+<br>repo: ![GitHub](https://github.com/Cryogenicboom/User-Simulated-Virtual-OS)
 
 ## Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmishrapslv@gmail.com) 
