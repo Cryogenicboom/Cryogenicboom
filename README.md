@@ -11,6 +11,7 @@ focusing on **core computer science**<br>Interested in **Operating Systems, Comp
 # Tools: 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) 
 
-#About me: 
+# About me: 
 - I am a confused person.
-- I love old 90s tech aesthetics. 
+- I love old 90s tech aesthetics.
+- I study Quantum Mechanics, Electrodynamics and Wimpy Kid too.
