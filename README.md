@@ -1,5 +1,5 @@
 # About Me:
-focusing on **core computer science**<br>Interested in **Operating Systems, Computer Architecture, and low-level systems**<br>Learning by **building and breaking things**<br> 
+Study Computer as a **science**<br>Interested in **Operating Systems, Computer Architecture, low-level systems and Processors**<br>Self learning by **building and breaking things**<br> 
 
 ## Projects: 
 - [AMUNIX](https://github.com/Cryogenicboom/Amunix): Hobby project to learn about SHELL development, process management by OS.
@@ -9,9 +9,9 @@ focusing on **core computer science**<br>Interested in **Operating Systems, Comp
 
 
 # Tools: 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
 
 ### Somethings... 
 - I am a confused person.
 - I love old 90s tech aesthetics.
-- I study Quantum Mechanics, Electrodynamics and Wimpy Kid too.
+- I also try to study Quantum Mechanics, Electrodynamics and Wimpy Kid.
