@@ -1,9 +1,11 @@
 # About Me:
-Study Computer as a **science**<br>Interested in **Operating Systems, Computer Architecture, low-level systems and Processors**<br>Self learning by **building and breaking things**<br> 
+Study Computer as a **science**
+<br>
+Self learning by **building and breaking things**
+<br> 
 
 ## Projects: 
 - [AMUNIX](https://github.com/Cryogenicboom/Amunix): Hobby project to learn about SHELL development, process management by OS.
-- [User simulated Virtual OS](https://github.com/Cryogenicboom/Amunix) ( stopped development ) : simulates multiple schedulers and let user control every part of the process and understand the working od schedulers. One of my another hobby project. (FCFS, STF, RR, Stride, Lottery) 
 - [Physics Two body Simulation](https://github.com/Cryogenicboom/Physics-Mass-Simulation) : This project was a part of [Semi Implicit Euler Simulation](https://github.com/Cryogenicboom/Projectile-Motion-Simulation) where i was trying to simulate physics problems using semi implicit euler method with animation. But i have to separate both of them.
 - [HACK 16 BIT CPU](https://github.com/Cryogenicboom/Hack-) : This was a project guide course i took during my 1st year, this course removed all the abstraction between logic gates and programming languages. I built a 16-bit CPU from a NAND gate to Assembler. **i cannot share all the project work since i adhere the rules of not sharing the project solutions online. But i have shared my documentations and understanding.**
 
@@ -13,6 +15,6 @@ Study Computer as a **science**<br>Interested in **Operating Systems, Computer A
 
 ### Somethings... 
 - I am a confused person.
-- I love old 90s tech aesthetics.
-- I also try to study Quantum Mechanics, Electrodynamics and Wimpy Kid.
+- I love old 90s tech.
+- I also study Quantum Mechanics, Electrodynamics and Wimpy Kid.
 - [Webpage](https://cryogenicboom.github.io/cryoboom/)
